@@ -1,5 +1,5 @@
 """
-TESIS: Predicción del tipo de cambio en el Perú mediante machine learning
+TEMA: Predicción del tipo de cambio en el Perú mediante machine learning
 Metodología completa en Python
 
   Objetivo general: evaluar si el Random Forest mejora la precisión y la eficiencia del
