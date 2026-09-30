@@ -1,6 +1,5 @@
 /*==============================================================================
   DO-FILE: ANÁLISIS TAM - YAPE/PLIN
-  Autora  : Keila Bocanegra
   Proyecto: Modelo TAM - Adopción de billeteras digitales (Perú)
   Datos   : raw_data3_fixed.csv
   Fecha   : Junio 2026
