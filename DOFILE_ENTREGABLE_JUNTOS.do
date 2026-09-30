@@ -1,5 +1,5 @@
 /*===========================================================================
-  TESIS: Movilidad social intergeneracional en la dimensión ocupacional
+  TEMA: Movilidad social intergeneracional en la dimensión ocupacional
          y el Programa Juntos en Perú
   Fuente : Young Lives Perú - Cohorte Mayor (Rondas 1 a 7)
   Autor  : Paul
