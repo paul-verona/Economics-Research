@@ -17,7 +17,7 @@ Metodología completa en Python
   Extras: robustez con 3 semillas, SHAP y dependencia parcial
 
 Uso:
-    pip install pandas numpy scikit-learn statsmodels arch xgboost shap matplotlib openpyxl requests yfinance
+    pip install pandas numpy scikit-learn statsmodels arch xgboost shap matplotlib requests yfinance
     python metodologia_tc_ml_final.py
     (o: python metodologia_tc_ml_final.py RUTA_BASE.xlsx CARPETA_RESULTADOS)
 """
