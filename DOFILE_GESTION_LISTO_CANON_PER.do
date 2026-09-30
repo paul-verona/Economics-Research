@@ -1,5 +1,5 @@
 *======================================================================*
-* TESIS: GESTIÓN MUNICIPAL Y EFECTO REDISTRIBUTIVO DEL CANON MINERO
+* TEMA: GESTIÓN MUNICIPAL Y EFECTOS REDISTRIBUTIVOS DEL CANON MINERO
 * Provincias mineras peruanas, 2015-2024
 *
 * MODELO PRINCIPAL:
